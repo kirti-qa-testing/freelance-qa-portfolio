@@ -59,3 +59,19 @@ These are practice portfolio projects. Execution results and findings will be do
 
 For freelance testing enquiries, please contact me through my professional networking or freelance platform profile.# freelance-qa-portfolio
 Software testing portfolio: manual testing, SQL, ETL, API testing and defect reporting
+## Portfolio Projects
+
+### 1. Website Functional Testing
+- [Website Testing Overview](Website-Testing/README.md)
+- [Excel Test Cases and Testing Templates](Website-Testing/Freelance_QA_Portfolio_Starter.xlsx)
+- [Bug Report Template](Website-Testing/Bug-Reports.md)
+- [Website Test Execution Summary](Website-Testing/Test-Summary.md)
+
+### 2. ETL and Database Testing
+- [ETL Testing Overview](ETL-Testing/README.md)
+- [SQL ETL Validation Script](ETL-Testing/ETL_Validation_SQL_Starter.sql)
+- [ETL Test Summary](ETL-Testing/ETL-Test-Summary.md)
+
+### Portfolio Disclaimer
+These are practice portfolio examples using synthetic or sample data.
+Test results and defects will be reported only after verification.
